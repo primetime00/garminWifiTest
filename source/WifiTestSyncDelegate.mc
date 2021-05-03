@@ -4,12 +4,9 @@ using Toybox.Application;
 using Toybox.System;
 
 class WifiTestSyncDelegate extends Media.SyncDelegate {
-
-	var urls = ["http://myplays.com/android/mp3/larkinbeats_sephorafreedlbuy1get2free.mp3",
-    			   "http://myplays.com/android/mp3/Texas_TEA.mp3",
-    			   "http://myplays.com/android/mp3/Almighty_Complete_With_Tag.mp3",
-    			   "http://myplays.com/android/mp3/India_Trap_Beat.mp3",
-    			   "http://myplays.com/android/mp3/LIBERATION.mp3"];
+  			   
+	var urls = ["https://github.com/primetime00/garminWifiTest/raw/main/audio/test.mp3"];
+    			   
     var index = 0;
 
     function initialize() {
@@ -24,8 +21,8 @@ class WifiTestSyncDelegate extends Media.SyncDelegate {
     	if (code == 200) {
     		System.println("Download Complete " + index);
     		index++;
-    		Media.notifySyncProgress(20*index);    		
-    		if (index < 5) {
+    		Media.notifySyncProgress(100*index);    		
+    		if (index < urls.size()) {
     			syncItem();
     			return;
     		}

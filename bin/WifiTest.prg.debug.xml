@@ -68,42 +68,45 @@
 <entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="42" lineNum="52" pc="268436224" symbol="previous"/>
 <entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="43" lineNum="56" pc="268436227" symbol="shuffling"/>
 <entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="43" lineNum="57" pc="268436231" symbol="shuffling"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="45" lineNum="15" pc="268436235" symbol="initialize"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="45" lineNum="16" pc="268436239" symbol="initialize"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="23" pc="268436258" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="24" pc="268436262" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="25" pc="268436273" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="26" pc="268436294" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="27" pc="268436313" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="28" pc="268436343" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="29" pc="268436360" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="30" pc="268436372" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="33" pc="268436376" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="36" pc="268436396" symbol="onDone"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="39" pc="268436414" symbol="syncItem"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="40" pc="268436418" symbol="syncItem"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="42" pc="268436437" symbol="syncItem"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="45" pc="268436505" symbol="syncItem"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="48" pc="268436543" symbol="onStartSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="49" pc="268436547" symbol="onStartSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="50" pc="268436563" symbol="onStartSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="51" pc="268436576" symbol="onStartSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="49" lineNum="55" pc="268436589" symbol="isSyncNeeded"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="49" lineNum="56" pc="268436593" symbol="isSyncNeeded"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="60" pc="268436597" symbol="onStopSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="61" pc="268436601" symbol="onStopSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="62" pc="268436617" symbol="onStopSync"/>
-<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="8" pc="268437565" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="56" lineNum="16" pc="268436635" symbol="ConfigurePlaybackLayout"/>
-<entry filename="Rez" id="56" lineNum="18" pc="268436647" symbol="ConfigurePlaybackLayout"/>
-<entry filename="Rez" id="56" lineNum="19" pc="268436799" symbol="ConfigurePlaybackLayout"/>
-<entry filename="Rez" id="56" lineNum="20" pc="268436911" symbol="ConfigurePlaybackLayout"/>
-<entry filename="Rez" id="56" lineNum="22" pc="268436951" symbol="ConfigurePlaybackLayout"/>
-<entry filename="Rez" id="57" lineNum="31" pc="268436979" symbol="ConfigureSyncLayout"/>
-<entry filename="Rez" id="57" lineNum="33" pc="268436991" symbol="ConfigureSyncLayout"/>
-<entry filename="Rez" id="57" lineNum="34" pc="268437143" symbol="ConfigureSyncLayout"/>
-<entry filename="Rez" id="57" lineNum="35" pc="268437255" symbol="ConfigureSyncLayout"/>
-<entry filename="Rez" id="57" lineNum="37" pc="268437295" symbol="ConfigureSyncLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="45" lineNum="12" pc="268436235" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="45" lineNum="13" pc="268436239" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="20" pc="268436258" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="21" pc="268436262" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="22" pc="268436273" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="23" pc="268436303" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="24" pc="268436322" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="25" pc="268436352" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="26" pc="268436381" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="27" pc="268436393" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="30" pc="268436397" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="31" pc="268436421" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="32" pc="268436438" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="35" pc="268436442" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="36" pc="268436463" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="39" pc="268436481" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="40" pc="268436485" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="42" pc="268436504" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="45" pc="268436572" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="48" pc="268436610" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="49" pc="268436614" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="50" pc="268436630" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="51" pc="268436643" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="49" lineNum="55" pc="268436656" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="49" lineNum="56" pc="268436660" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="60" pc="268436664" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="61" pc="268436668" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="62" pc="268436684" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="8" pc="268437580" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="56" lineNum="16" pc="268436702" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="18" pc="268436714" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="19" pc="268436866" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="20" pc="268436978" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="22" pc="268437018" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="57" lineNum="31" pc="268437046" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="33" pc="268437058" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="34" pc="268437210" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="35" pc="268437322" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="37" pc="268437362" symbol="ConfigureSyncLayout"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
@@ -204,16 +207,16 @@
 <entry arg="true" endPc="268435811" name="state" stackId="1" startPc="268435806"/>
 <entry arg="true" endPc="268435839" name="arg" stackId="1" startPc="268435811"/>
 <entry endPc="268436198" name="profile" stackId="1" startPc="268436053"/>
-<entry arg="true" endPc="268436414" name="code" stackId="1" startPc="268436258"/>
-<entry arg="true" endPc="268436414" name="data" stackId="2" startPc="268436258"/>
-<entry endPc="268436542" name="options" stackId="2" startPc="268436418"/>
-<entry endPc="268436542" name="url" stackId="1" startPc="268436418"/>
-<entry endPc="268436978" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436647"/>
-<entry endPc="268436978" name="rez_cmp_local_text_5747083506" stackId="2" startPc="268436647"/>
-<entry arg="true" endPc="268436979" name="dc" stackId="1" startPc="268436635"/>
-<entry endPc="268437322" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436991"/>
-<entry endPc="268437322" name="rez_cmp_local_text_1788079886" stackId="2" startPc="268436991"/>
-<entry arg="true" endPc="268437323" name="dc" stackId="1" startPc="268436979"/>
+<entry arg="true" endPc="268436481" name="code" stackId="1" startPc="268436258"/>
+<entry arg="true" endPc="268436481" name="data" stackId="2" startPc="268436258"/>
+<entry endPc="268436609" name="options" stackId="2" startPc="268436485"/>
+<entry endPc="268436609" name="url" stackId="1" startPc="268436485"/>
+<entry endPc="268437045" name="rez_cmp_local_text_4500130889" stackId="2" startPc="268436714"/>
+<entry endPc="268437045" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436714"/>
+<entry arg="true" endPc="268437046" name="dc" stackId="1" startPc="268436702"/>
+<entry endPc="268437389" name="rez_cmp_local_text_5611929751" stackId="2" startPc="268437058"/>
+<entry endPc="268437389" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268437058"/>
+<entry arg="true" endPc="268437390" name="dc" stackId="1" startPc="268437046"/>
 </localVars>
 <annotations/>
 <dataEntryOffsetMappings>
