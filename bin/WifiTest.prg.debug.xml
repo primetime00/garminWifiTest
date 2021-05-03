@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Users\Ryan\workspace\WifiTest\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="3" lineNum="8" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="3" lineNum="9" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="4" lineNum="15" pc="268435479" symbol="getContentIterator"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="4" lineNum="16" pc="268435483" symbol="getContentIterator"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="5" lineNum="20" pc="268435507" symbol="onAdAction"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="6" lineNum="24" pc="268435512" symbol="onThumbsUp"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="7" lineNum="28" pc="268435517" symbol="onThumbsDown"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="8" lineNum="32" pc="268435522" symbol="onShuffle"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentDelegate.mc" id="9" lineNum="37" pc="268435527" symbol="onSong"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackDelegate.mc" id="11" lineNum="5" pc="268435532" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackDelegate.mc" id="11" lineNum="6" pc="268435536" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="13" lineNum="5" pc="268435555" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="13" lineNum="6" pc="268435559" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="14" lineNum="10" pc="268435578" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="14" lineNum="11" pc="268435582" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="15" lineNum="17" pc="268435620" symbol="onShow"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="16" lineNum="21" pc="268435625" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="16" lineNum="23" pc="268435629" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigurePlaybackView.mc" id="17" lineNum="29" pc="268435650" symbol="onHide"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="19" lineNum="8" pc="268435655" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="19" lineNum="9" pc="268435659" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="20" lineNum="13" pc="268435678" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="20" lineNum="14" pc="268435682" symbol="onLayout"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="21" lineNum="20" pc="268435720" symbol="onShow"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="22" lineNum="24" pc="268435725" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="22" lineNum="26" pc="268435729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncView.mc" id="23" lineNum="32" pc="268435750" symbol="onHide"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncDelegate.mc" id="25" lineNum="5" pc="268435755" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestConfigureSyncDelegate.mc" id="25" lineNum="6" pc="268435759" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="27" lineNum="5" pc="268435778" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="27" lineNum="6" pc="268435782" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="28" lineNum="10" pc="268435801" symbol="onStart"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="29" lineNum="14" pc="268435806" symbol="onStop"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="30" lineNum="18" pc="268435811" symbol="getContentDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="30" lineNum="19" pc="268435815" symbol="getContentDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="31" lineNum="23" pc="268435839" symbol="getSyncDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="31" lineNum="24" pc="268435843" symbol="getSyncDelegate"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="32" lineNum="28" pc="268435867" symbol="getPlaybackConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="32" lineNum="29" pc="268435871" symbol="getPlaybackConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="33" lineNum="33" pc="268435939" symbol="getSyncConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestApp.mc" id="33" lineNum="34" pc="268435943" symbol="getSyncConfigurationView"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="35" lineNum="5" pc="268436011" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="35" lineNum="6" pc="268436015" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="36" lineNum="10" pc="268436034" symbol="canSkip"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="36" lineNum="11" pc="268436038" symbol="canSkip"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="37" lineNum="15" pc="268436042" symbol="get"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="37" lineNum="16" pc="268436046" symbol="get"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="20" pc="268436049" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="21" pc="268436053" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="22" pc="268436081" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="23" pc="268436091" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="28" pc="268436153" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="29" pc="268436166" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="30" pc="268436176" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="31" pc="268436185" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="38" lineNum="32" pc="268436195" symbol="getPlaybackProfile"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="39" lineNum="36" pc="268436199" symbol="next"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="39" lineNum="37" pc="268436203" symbol="next"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="40" lineNum="41" pc="268436206" symbol="peekNext"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="40" lineNum="42" pc="268436210" symbol="peekNext"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="41" lineNum="46" pc="268436213" symbol="peekPrevious"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="41" lineNum="47" pc="268436217" symbol="peekPrevious"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="42" lineNum="51" pc="268436220" symbol="previous"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="42" lineNum="52" pc="268436224" symbol="previous"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="43" lineNum="56" pc="268436227" symbol="shuffling"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestContentIterator.mc" id="43" lineNum="57" pc="268436231" symbol="shuffling"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="45" lineNum="15" pc="268436235" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="45" lineNum="16" pc="268436239" symbol="initialize"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="23" pc="268436258" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="24" pc="268436262" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="25" pc="268436273" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="26" pc="268436294" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="27" pc="268436313" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="28" pc="268436343" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="29" pc="268436360" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="30" pc="268436372" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="33" pc="268436376" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="46" lineNum="36" pc="268436396" symbol="onDone"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="39" pc="268436414" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="40" pc="268436418" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="42" pc="268436437" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="47" lineNum="45" pc="268436505" symbol="syncItem"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="48" pc="268436543" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="49" pc="268436547" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="50" pc="268436563" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="48" lineNum="51" pc="268436576" symbol="onStartSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="49" lineNum="55" pc="268436589" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="49" lineNum="56" pc="268436593" symbol="isSyncNeeded"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="60" pc="268436597" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="61" pc="268436601" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="62" pc="268436617" symbol="onStopSync"/>
+<entry filename="C:\\Users\\Ryan\\workspace\\WifiTest\\source\\WifiTestSyncDelegate.mc" id="50" lineNum="8" pc="268437565" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="56" lineNum="16" pc="268436635" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="18" pc="268436647" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="19" pc="268436799" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="20" pc="268436911" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="56" lineNum="22" pc="268436951" symbol="ConfigurePlaybackLayout"/>
+<entry filename="Rez" id="57" lineNum="31" pc="268436979" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="33" pc="268436991" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="34" pc="268437143" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="35" pc="268437255" symbol="ConfigureSyncLayout"/>
+<entry filename="Rez" id="57" lineNum="37" pc="268437295" symbol="ConfigureSyncLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8390434" method="true" symbol="getSyncConfigurationView"/>
+<entry id="8389346" symbol="text"/>
+<entry id="8390211" module="true" symbol="Media"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="8390379" method="true" symbol="onThumbsUp"/>
+<entry id="8390380" method="true" symbol="onThumbsDown"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8388826" method="true" symbol="next"/>
+<entry field="true" id="26" symbol="urls"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="8390377" method="true" symbol="getContentIterator"/>
+<entry id="8390373" method="true" symbol="shuffling"/>
+<entry field="true" id="25" symbol="AppName"/>
+<entry id="8390459" method="true" symbol="onStopSync"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390430" method="true" symbol="getContentDelegate"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8390378" method="true" symbol="onAdAction"/>
+<entry field="true" id="19" symbol="id_monkey"/>
+<entry id="8388789" method="true" symbol="get"/>
+<entry id="8390342" method="true" symbol="isSyncNeeded"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8390422" method="true" symbol="onDone"/>
+<entry id="8390431" method="true" symbol="getSyncDelegate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="8390371" method="true" symbol="peekNext"/>
+<entry id="8390372" method="true" symbol="peekPrevious"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="16" object="true" symbol="WifiTestSyncDelegate"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="13" object="true" symbol="WifiTestConfigureSyncDelegate"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8390382" method="true" symbol="onSong"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8390432" method="true" symbol="getPlaybackConfigurationView"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="28" method="true" symbol="syncItem"/>
+<entry field="true" id="20" symbol="LauncherIcon"/>
+<entry id="8390374" method="true" symbol="canSkip"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8390369" method="true" symbol="getPlaybackProfile"/>
+<entry id="11" object="true" symbol="WifiTestConfigurePlaybackView"/>
+<entry id="8390370" method="true" symbol="previous"/>
+<entry id="10" object="true" symbol="WifiTestConfigurePlaybackDelegate"/>
+<entry id="9" object="true" symbol="WifiTestContentDelegate"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8390341" method="true" symbol="onStartSync"/>
+<entry id="21" method="true" symbol="ConfigurePlaybackLayout"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="23" symbol="configurePlaybackMessage"/>
+<entry id="15" object="true" symbol="WifiTestContentIterator"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="22" method="true" symbol="ConfigureSyncLayout"/>
+<entry id="14" object="true" symbol="WifiTestApp"/>
+<entry id="8390381" method="true" symbol="onShuffle"/>
+<entry field="true" id="24" symbol="configureSyncMessage"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="12" object="true" symbol="WifiTestConfigureSyncView"/>
+<entry id="8390441" object="true" symbol="mediaEncoding"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="27" symbol="index"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435512" name="adContext" stackId="1" startPc="268435507"/>
+<entry arg="true" endPc="268435517" name="contentRefId" stackId="1" startPc="268435512"/>
+<entry arg="true" endPc="268435522" name="contentRefId" stackId="1" startPc="268435517"/>
+<entry arg="true" endPc="268435532" name="playbackPosition" stackId="3" startPc="268435527"/>
+<entry arg="true" endPc="268435532" name="songEvent" stackId="2" startPc="268435527"/>
+<entry arg="true" endPc="268435532" name="contentRefId" stackId="1" startPc="268435527"/>
+<entry arg="true" endPc="268435620" name="dc" stackId="1" startPc="268435578"/>
+<entry arg="true" endPc="268435650" name="dc" stackId="1" startPc="268435625"/>
+<entry arg="true" endPc="268435720" name="dc" stackId="1" startPc="268435678"/>
+<entry arg="true" endPc="268435750" name="dc" stackId="1" startPc="268435725"/>
+<entry arg="true" endPc="268435806" name="state" stackId="1" startPc="268435801"/>
+<entry arg="true" endPc="268435811" name="state" stackId="1" startPc="268435806"/>
+<entry arg="true" endPc="268435839" name="arg" stackId="1" startPc="268435811"/>
+<entry endPc="268436198" name="profile" stackId="1" startPc="268436053"/>
+<entry arg="true" endPc="268436414" name="code" stackId="1" startPc="268436258"/>
+<entry arg="true" endPc="268436414" name="data" stackId="2" startPc="268436258"/>
+<entry endPc="268436542" name="options" stackId="2" startPc="268436418"/>
+<entry endPc="268436542" name="url" stackId="1" startPc="268436418"/>
+<entry endPc="268436978" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436647"/>
+<entry endPc="268436978" name="rez_cmp_local_text_5747083506" stackId="2" startPc="268436647"/>
+<entry arg="true" endPc="268436979" name="dc" stackId="1" startPc="268436635"/>
+<entry endPc="268437322" name="rez_cmp_local_bitmap_id_monkey" stackId="3" startPc="268436991"/>
+<entry endPc="268437322" name="rez_cmp_local_text_1788079886" stackId="2" startPc="268436991"/>
+<entry arg="true" endPc="268437323" name="dc" stackId="1" startPc="268436979"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="198" parentId="globals" symbolId="WifiTestConfigureSyncView" type="class"/>
+<dataEntry offset="277" parentId="globals" symbolId="WifiTestConfigurePlaybackDelegate" type="class"/>
+<dataEntry offset="324" parentId="globals" symbolId="WifiTestContentDelegate" type="class"/>
+<dataEntry offset="419" parentId="globals" symbolId="WifiTestApp" type="class"/>
+<dataEntry offset="514" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="593" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="640" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="671" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="702" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="749" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="780" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="835" parentId="globals" symbolId="WifiTestContentIterator" type="class"/>
+<dataEntry offset="946" parentId="globals" symbolId="WifiTestConfigurePlaybackView" type="class"/>
+<dataEntry offset="1025" parentId="globals" symbolId="WifiTestSyncDelegate" type="class"/>
+<dataEntry offset="1128" parentId="globals" symbolId="WifiTestConfigureSyncDelegate" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestContentDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getContentIterator" parent="WifiTestContentDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onAdAction" parent="WifiTestContentDelegate">
+<param id="adContext"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onThumbsUp" parent="WifiTestContentDelegate">
+<param id="contentRefId"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onThumbsDown" parent="WifiTestContentDelegate">
+<param id="contentRefId"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShuffle" parent="WifiTestContentDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSong" parent="WifiTestContentDelegate">
+<param id="contentRefId"/>
+<param id="songEvent"/>
+<param id="playbackPosition"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestConfigurePlaybackDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestConfigurePlaybackView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WifiTestConfigurePlaybackView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WifiTestConfigurePlaybackView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WifiTestConfigurePlaybackView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WifiTestConfigurePlaybackView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestConfigureSyncView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WifiTestConfigureSyncView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WifiTestConfigureSyncView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WifiTestConfigureSyncView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WifiTestConfigureSyncView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestConfigureSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WifiTestApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WifiTestApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getContentDelegate" parent="WifiTestApp">
+<param id="arg"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSyncDelegate" parent="WifiTestApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPlaybackConfigurationView" parent="WifiTestApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getSyncConfigurationView" parent="WifiTestApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="canSkip" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="get" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getPlaybackProfile" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="next" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="peekNext" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="peekPrevious" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="previous" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="shuffling" parent="WifiTestContentIterator">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WifiTestSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onDone" parent="WifiTestSyncDelegate">
+<param id="code"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="syncItem" parent="WifiTestSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStartSync" parent="WifiTestSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="isSyncNeeded" parent="WifiTestSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStopSync" parent="WifiTestSyncDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ConfigurePlaybackLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="ConfigureSyncLayout" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
